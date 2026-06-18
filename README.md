@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I’m Afzal Shaikh.<br>A full-stack developer and computer science student focused on building robust<br>scalable web applications.<br>I specialize in MERN stack, Nextjs and have hands-on experience with backend architecture,<br>API design, authentication.<br>Also deployment on platforms like Vercel and Render.
+Hello, I’m Afzal Shaikh.<br>A full-stack developer and computer science student focused on building robust<br>scalable web applications.<br>I specialize in MERN stack, Nextjs and have hands-on experience with backend architecture,<br>API design. Currently learning AI with python
 
 
 ## 🌐 Socials:
